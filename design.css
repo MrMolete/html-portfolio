@@ -1,0 +1,48 @@
+.homepic{
+border-radius: 50% ;
+border: 3px slateblue solid ;
+}
+.container{
+    background-color: #9999;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+.aboutpics1{
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 10px;
+ 
+    width: 200px;
+}
+.aboutpics2{
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    
+    width: 200px;
+}
+
+img{
+    border-radius: 2 %;
+}
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+}
+body{
+    background-image:url(17973908.jpg);
+    height: 100vh;
+    background-position: center;
+    font-family: sans-serif;
+}
+.align{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    align-self: normal;
+    background-color: lavender;
+}
+.card-body{
+    background-color: lavenderblush;
+}
+.header{
+    position: fixed;
+}
